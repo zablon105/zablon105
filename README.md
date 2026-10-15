@@ -1,153 +1,145 @@
-# 👋 Hi, I'm Zablon | Software Developer
+<div align="center">
 
-### Full-Stack Developer · Computer Science Student · Problem Solver
+  # 👋 Hi, I'm Zablon
 
-I am a student at **Kaimosi Friends University (KAFU), Kenya**, passionate about designing, developing, and deploying practical software solutions that solve real-world problems.
+  <a href="https://github.com/zablon105">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Software+Developer;Computer+Science+Senior+%40+KAFU;Building+Scalable+%26+Secure+Solutions;Passionate+Problem+Solver" alt="Typing SVG" />
+  </a>
 
-My interests include full-stack web development, database-driven applications, software engineering, and building intuitive digital experiences. I enjoy learning new technologies, solving technical challenges, and turning ideas into functional software.
+  <p align="center">
+    <a href="https://zablon105.github.io/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://github.com/zablon105"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:kinzizablon@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
 
-- 🔭 **Currently working on:** Full-stack web applications and project management systems.
-- 🌱 **Currently learning:** Application security, database optimization, and cloud deployment.
-- 💻 **Core interests:** Software engineering, web development, database systems, and system design.
-- 🤝 **Open to:** Software development collaborations, internships, and professional opportunities.
-- 🎯 **Mission:** To build secure, scalable, and user-focused software solutions.
+  <img src="https://komarev.com/ghpvc/?username=zablon105&label=PROFILE%20VIEWS&color=0ea5e9&style=flat-square" alt="Profile Views" />
 
-🌐 **Portfolio:** [Visit my website](https://zablon105.github.io/)  
-💻 **GitHub:** [Explore my repositories](https://github.com/zablon105)
-
----
-
-## 🛠️ Skills & Technologies
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Databases & Storage
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Development Tools & Deployment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-
-### Technical Areas
-
-- Full-stack web application development
-- REST API development and integration
-- Relational database design and management
-- Authentication and role-based access control
-- Responsive user interface development
-- Version control and collaborative development
-- Application deployment and configuration
-- Software testing, debugging, and maintenance
+</div>
 
 ---
 
-## 🚀 Featured Projects
+### 👨‍💻 About Me
 
-### 1. Client Project Management System
+I am a fourth-year **Computer Science student** at **Kaimosi Friends University (KAFU)** in Kenya, dedicated to engineering practical, secure, and user-centric software solutions.
 
-**Technologies:** Django · React · PostgreSQL · Docker
-
-A web-based project management solution designed to help businesses organize client projects, monitor job progress, collect feedback, and manage invoices and payments.
-
-**Key objectives:**
-- Enable clients to monitor project progress.
-- Support project updates and feedback management.
-- Improve communication between clients and project teams.
-- Organize invoice and payment information.
-
-🔗 [View project repository](https://github.com/zablon105/client-project-mangement-system)
-
-### 2. Developer Portfolio
-
-**Technologies:** React · Vite · CSS · GitHub Pages
-
-My personal portfolio website, developed to showcase my technical skills, software projects, professional interests, and development journey.
-
-- Responsive portfolio interface.
-- Dedicated sections for skills and projects.
-- Publicly accessible website.
-- Version-controlled source code.
-
-🌐 [Visit the live portfolio](https://zablon105.github.io/)  
-🔗 [View portfolio source code](https://github.com/zablon105/zablon105.github.io)
+- 🔭 **Currently working on:** Full-stack web architectures & scalable project management platforms.
+- 🌱 **Deepening knowledge in:** Application security, database optimization, and cloud deployment pipelines.
+- 🎓 **Education:** B.Sc. in Computer Science — Kaimosi Friends University (KAFU).
+- 💡 **Core Interests:** System design, full-stack engineering, relational database modeling, and performant web apps.
+- 🤝 **Open to:** Software development roles, software engineering internships, open-source collaborations, and freelance opportunities.
 
 ---
 
-## 📊 GitHub Statistics
+### 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zablon105&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
+#### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zablon105&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+#### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zablon105&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+#### 🗄️ Databases & Storage
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zablon105&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+#### 🚀 DevOps & Developer Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-## 🎓 Education
+### 🚀 Featured Projects
 
-**Bachelor's Degree in Computer Science**  
-Kaimosi Friends University (KAFU) · Kenya
-
-Developing practical knowledge in software development, database systems, computer networks, system analysis and design, and information technology.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Client Project Management System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <p>A comprehensive web solution designed to streamline client onboarding, milestone tracking, real-time feedback collection, and automated invoicing.</p>
+      <ul>
+        <li>Client progress monitoring & milestone dashboards</li>
+        <li>Structured feedback and revision workflows</li>
+        <li>Invoice generation & secure payment status records</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/zablon105/client-project-mangement-system">
+          <b>📂 View Repository →</b>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Modern Developer Portfolio</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+      </p>
+      <p>Personal interactive portfolio showcasing technical projects, software engineering capabilities, interactive UI components, and continuous development.</p>
+      <ul>
+        <li>High-performance, responsive React interface</li>
+        <li>Clean project showcases & technical skillset breakdown</li>
+        <li>Automated CI/CD deployment via GitHub Actions</li>
+      </ul>
+      <p align="center">
+        <a href="https://zablon105.github.io/"><b>🔗 Live Website</b></a> · 
+        <a href="https://github.com/zablon105/zablon105.github.io"><b>📂 Source Code →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🤝 Collaboration & Professional Interests
+### 📊 GitHub Activity & Metrics
 
-I welcome opportunities to:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zablon105&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Profile Statistics" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zablon105&layout=compact&theme=tokyonight&hide_border=true" alt="Most-Used Languages" width="48%" />
+</div>
 
-- Collaborate on meaningful software development projects.
-- Contribute to open-source projects.
-- Learn from experienced software engineers.
-- Develop practical solutions to business challenges.
-- Grow professionally through internships and software development opportunities.
+<div align="center" style="margin-top: 15px;">
+  <img src="https://streak-stats.demolab.com/?user=zablon105&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="97%" />
+</div>
 
 ---
 
-## 📫 Contact & Connect
+### 📬 Let's Connect
 
-I'm always interested in connecting with developers, technology enthusiasts, potential collaborators, and organizations working on innovative software solutions.
+I'm always eager to collaborate on high-impact projects, discuss tech stacks, or explore software engineering roles.
 
 - 🌐 **Portfolio:** [zablon105.github.io](https://zablon105.github.io/)
-- 💻 **GitHub:** [@zablon105](https://github.com/zablon105)
 - 📧 **Email:** [kinzizablon@gmail.com](mailto:kinzizablon@gmail.com)
-- 💼 **LinkedIn:** Add your LinkedIn profile URL here if available.
-
----
-
-<p align="center">
-  <b>Building solutions. Learning continuously. Creating impact through technology.</b>
-</p>
+- 💼 **LinkedIn:** [Connect with Zablon](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME) *(replace with your username)*
+- 🐙 **GitHub:** [@zablon105](https://github.com/zablon105)
 
 <p align="center">
-  ⭐ Explore my repositories and follow my development journey.
+  <sub>⚡ <b>Building solutions · Learning continuously · Creating impact through technology</b> ⚡</sub>
 </p>
