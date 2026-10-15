@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-I am a student **Computer Science student** at **Kaimosi Friends University (KAFU)** in Kenya, dedicated to engineering practical, secure, and user-centric software solutions.
+I am a **Computer Science student** at **Kaimosi Friends University (KAFU)** in Kenya, dedicated to engineering practical, secure, and user-centric software solutions.
 
 - 🔭 **Currently working on:** Full-stack web architectures & scalable project management platforms.
 - 🌱 **Deepening knowledge in:** Application security, database optimization, and cloud deployment pipelines.
