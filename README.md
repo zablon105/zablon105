@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer · Computer Science Student · Problem Solver
 
-I am a fourth-year Computer Science student at **Kaimosi Friends University (KAFU), Kenya**, passionate about designing, developing, and deploying practical software solutions that solve real-world problems.
+I am a student at **Kaimosi Friends University (KAFU), Kenya**, passionate about designing, developing, and deploying practical software solutions that solve real-world problems.
 
 My interests include full-stack web development, database-driven applications, software engineering, and building intuitive digital experiences. I enjoy learning new technologies, solving technical challenges, and turning ideas into functional software.
 
