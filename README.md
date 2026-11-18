@@ -1,6 +1,6 @@
 <div align="center">
 
-  # ⚡ Hi, I'm Zablon Kinzi
+  # ⚡ Hi, I'm Zablon 
 
   <a href="https://github.com/zablon105">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Computer+Science+%40+KAFU;Building+Resilient+%26+Scalable+Architectures;Passionate+Problem+Solver+%26+Open-Sourcer" alt="Typing SVG" />
